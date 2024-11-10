@@ -6,4 +6,5 @@ Don't forget to review and update the [LICENSE](LICENSE) file.
 * [LICENSE](LICENSE) - CC0 license
 * [.gitignore](.gitignore) - basic git ignore rules
 * [sample.sh](sample.sh) - basic Bourne Shell script
+* [sample.py](sample.py) - basic Python language script
 
