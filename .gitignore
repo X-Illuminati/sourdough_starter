@@ -1,0 +1,16 @@
+# output directory
+out/
+
+# python
+*.py[cod]
+
+# temp files
+.~lock.*
+*.md.backup
+*.bkp
+*.dtmp
+*.orig
+*~
+\#*#
+.*.sw*
+
